@@ -1,2 +1,3 @@
 # Nursing-System-API
-Backend project using NodeJS and MongoDB
+
+Simple Backend project using NodeJS and MongoDB
